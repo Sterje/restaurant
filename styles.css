@@ -63,3 +63,9 @@ h1 {
 #demo {
     font-size: 2rem;
 }
+
+.section1 {
+    height: 1200px;
+    width: 100px;
+    background-color: aqua;
+}
